@@ -1,0 +1,17 @@
+C:\Users\sesan\Downloads\aem-64-code-challenge\zinc-aem-64-code-challenge-dfe3dabd281e\core\src\main\java\com\infield\aem\challenge\core\models\QuoteModel.java
+C:\Users\sesan\Downloads\aem-64-code-challenge\zinc-aem-64-code-challenge-dfe3dabd281e\core\src\main\java\com\infield\aem\challenge\core\models\ResponseModel.java
+C:\Users\sesan\Downloads\aem-64-code-challenge\zinc-aem-64-code-challenge-dfe3dabd281e\core\src\main\java\com\infield\aem\challenge\core\schedulers\SimpleScheduledTask.java
+C:\Users\sesan\Downloads\aem-64-code-challenge\zinc-aem-64-code-challenge-dfe3dabd281e\core\src\main\java\com\infield\aem\challenge\core\models\HelloWorldModel.java
+C:\Users\sesan\Downloads\aem-64-code-challenge\zinc-aem-64-code-challenge-dfe3dabd281e\core\src\main\java\com\infield\aem\challenge\core\exceptions\QuoteApiException.java
+C:\Users\sesan\Downloads\aem-64-code-challenge\zinc-aem-64-code-challenge-dfe3dabd281e\core\src\main\java\com\infield\aem\challenge\core\utils\Helper.java
+C:\Users\sesan\Downloads\aem-64-code-challenge\zinc-aem-64-code-challenge-dfe3dabd281e\core\src\main\java\com\infield\aem\challenge\core\package-info.java
+C:\Users\sesan\Downloads\aem-64-code-challenge\zinc-aem-64-code-challenge-dfe3dabd281e\core\src\main\java\com\infield\aem\challenge\core\constants\RestHeaderConstants.java
+C:\Users\sesan\Downloads\aem-64-code-challenge\zinc-aem-64-code-challenge-dfe3dabd281e\core\src\main\java\com\infield\aem\challenge\core\servlets\QuotesServlet.java
+C:\Users\sesan\Downloads\aem-64-code-challenge\zinc-aem-64-code-challenge-dfe3dabd281e\core\src\main\java\com\infield\aem\challenge\core\filters\LoggingFilter.java
+C:\Users\sesan\Downloads\aem-64-code-challenge\zinc-aem-64-code-challenge-dfe3dabd281e\core\src\main\java\com\infield\aem\challenge\core\services\impl\QuoteApiImpl.java
+C:\Users\sesan\Downloads\aem-64-code-challenge\zinc-aem-64-code-challenge-dfe3dabd281e\core\src\main\java\com\infield\aem\challenge\core\services\QuoteApi.java
+C:\Users\sesan\Downloads\aem-64-code-challenge\zinc-aem-64-code-challenge-dfe3dabd281e\core\src\main\java\com\infield\aem\challenge\core\servlets\SimpleServlet.java
+C:\Users\sesan\Downloads\aem-64-code-challenge\zinc-aem-64-code-challenge-dfe3dabd281e\core\src\main\java\com\infield\aem\challenge\core\config\QuoteApiConfig.java
+C:\Users\sesan\Downloads\aem-64-code-challenge\zinc-aem-64-code-challenge-dfe3dabd281e\core\src\main\java\com\infield\aem\challenge\core\utils\RestApiClient.java
+C:\Users\sesan\Downloads\aem-64-code-challenge\zinc-aem-64-code-challenge-dfe3dabd281e\core\src\main\java\com\infield\aem\challenge\core\listeners\SimpleResourceListener.java
+C:\Users\sesan\Downloads\aem-64-code-challenge\zinc-aem-64-code-challenge-dfe3dabd281e\core\src\main\java\com\infield\aem\challenge\core\models\ServletErrorModel.java

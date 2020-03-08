@@ -1,0 +1,5 @@
+com\infield\aem\challenge\core\servlets\SimpleServletTest.class
+com\infield\aem\challenge\core\filters\LoggingFilterTest.class
+com\infield\aem\challenge\core\schedulers\SimpleScheduledTaskTest.class
+com\infield\aem\challenge\core\listeners\SimpleResourceListenerTest.class
+com\infield\aem\challenge\core\models\HelloWorldModelTest.class

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>aem-64-code-challenge - UI content</comment>
+<entry key="createdBy">sesan</entry>
+<entry key="name">aem-64-code-challenge.ui.content</entry>
+<entry key="created">2020-03-07T16:37:13.479-0800</entry>
+<entry key="groupId">com.infield</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">Infield</entry>
+<entry key="description">UI content package for aem-64-code-challenge</entry>
+<entry key="artifactId">aem-64-code-challenge.ui.content</entry>
+<entry key="path">/etc/packages/Infield/aem-64-code-challenge.ui.content.zip</entry>
+</properties>
